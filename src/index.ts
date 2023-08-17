@@ -10,6 +10,6 @@ console.log('zaikankanba', d)
 
 console.log('wocaoa!!!')
 
-let wozhendehaonanshou = 'a'
+const wozhendehaonanshou = 'a'
 
-console.log(4)
+console.log(wozhendehaonanshou, 5)
